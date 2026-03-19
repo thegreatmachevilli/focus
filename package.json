@@ -1,0 +1,15 @@
+{
+  "name": "focus-ai-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Focus AI engine for repository operations and bid-editing workflow setup",
+  "scripts": {
+    "start": "bash ./focus_engine.sh open",
+    "engine": "bash ./focus_engine.sh",
+    "setup": "bash ./setup.sh",
+    "task": "node ./codex_task.js",
+    "bid:open": "bash ./focus_engine.sh bid-open",
+    "bid:init": "bash ./focus_engine.sh bid-init quincy-office-remodel \"Quincy Office Remodel\"",
+    "bid:pdfs": "bash ./focus_engine.sh bid-pdfs quincy-office-remodel"
+  }
+}

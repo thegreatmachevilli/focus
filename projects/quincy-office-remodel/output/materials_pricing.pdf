@@ -1,0 +1,78 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Length 1942 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 50 742 Tm
+(quincy-office-remodel materials pricing) Tj
+0 -28 Td
+(item                                     | quantity | unit | source) Tj
+T*
+(| unit_price | total   | status         | notes) Tj
+T*
+(-----------------------------------------+----------+------+--------------------------------) Tj
+T*
+(----------+------------+---------+----------------+-----------------------------------------) Tj
+T*
+(48 in. drywall T-square                  | 1        | ea   | True Value - Empire Blue) Tj
+T*
+(Drywall Square, | 21.99      | 21.99   | priced         | Accessible market price used) Tj
+T*
+(because Men) Tj
+T*
+(DeWalt DW088CG green cross-line laser    | 1        | ea   | Home Depot - DW088CG) Tj
+T*
+(| 189.00     | 189.00  | priced         | Search snippet explicitly calls out drop) Tj
+T*
+(Hilti collated drywall screw strips 1-5/ | 1        | box  | Home Depot - Hilti 5000-pack) Tj
+T*
+(| 174.00     | 174.00  | priced         | Phosphate plated bugle head stitch point) Tj
+T*
+(Hilti collated drywall screw strips 1-1/ | 1        | box  | Home Depot - Hilti 8000-pack) Tj
+T*
+(| 266.00     | 266.00  | priced         | CRS M1 phosphate plated Phillips bugle h) Tj
+T*
+(Delivery fee                             | 1        | lot  | Menards checkout quote required) Tj
+T*
+(|            |         | quote-required | Menards states delivery cost is shown af) Tj
+T*
+(Big River Disposal dumpster/trash remova | 1        | lot  | User-directed allowance) Tj
+T*
+(| 400.00     | 400.00  | priced         | Fixed amount requested by user.) Tj
+T*
+(Quincy, IL commercial remodel permit fee | 1        | lot  | City of Quincy building permit) Tj
+T*
+(fee sched |            |         | formula        | Fee = max\($75, construction value x 0.00) Tj
+T*
+(Known priced subtotal \(before delivery + | 1        | lot  | Calculated from priced lines) Tj
+T*
+(| 1050.99    | 1050.99 | calculated     | Subtotal of priced add-on lines only.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000077 00000 n 
+0000000134 00000 n 
+0000002128 00000 n 
+0000002254 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2303
+%%EOF

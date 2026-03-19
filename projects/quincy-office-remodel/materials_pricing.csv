@@ -1,0 +1,9 @@
+item,quantity,unit,source,unit_price,total,status,notes
+48 in. drywall T-square,1,ea,"True Value - Empire Blue Drywall Square, 48 in.",21.99,21.99,priced,Accessible market price used because Menards page is bot-protected in this environment.
+DeWalt DW088CG green cross-line laser,1,ea,Home Depot - DW088CG,189.00,189.00,priced,"Search snippet explicitly calls out drop-ceiling, tile, and remodeling use."
+Hilti collated drywall screw strips 1-5/8 in.,1,box,Home Depot - Hilti 5000-pack,174.00,174.00,priced,"Phosphate plated bugle head stitch point collated drywall screw, 5000-pack."
+Hilti collated drywall screw strips 1-1/4 in.,1,box,Home Depot - Hilti 8000-pack,266.00,266.00,priced,"CRS M1 phosphate plated Phillips bugle head stitch point collated drywall screw, 8000-pack."
+Delivery fee,1,lot,Menards checkout quote required,,,quote-required,Menards states delivery cost is shown after entering the delivery zip code in checkout.
+Big River Disposal dumpster/trash removal,1,lot,User-directed allowance,400.00,400.00,priced,Fixed amount requested by user.
+"Quincy, IL commercial remodel permit fee",1,lot,City of Quincy building permit fee schedule (2018 PDF surfaced by city site),,,formula,"Fee = max($75, construction value x 0.005)."
+Known priced subtotal (before delivery + permit),1,lot,Calculated from priced lines,1050.99,1050.99,calculated,Subtotal of priced add-on lines only.

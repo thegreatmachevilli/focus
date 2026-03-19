@@ -1,0 +1,124 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Length 2340 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 50 742 Tm
+(quincy-office-remodel project overview) Tj
+0 -28 Td
+(# Quincy Office Remodel) Tj
+T*
+() Tj
+T*
+(## Project snapshot) Tj
+T*
+(- **Location:** Quincy, IL) Tj
+T*
+(- **Type:** Office remodel) Tj
+T*
+(- **Status:** edit-pass-partial-complete) Tj
+T*
+() Tj
+T*
+(## Scope summary) Tj
+T*
+(Office remodel package edit pass with pricing research completed, floor plans excluded, and) Tj
+T*
+(permit-fee formula documented. Final PDF page edits remain blocked until the source bid PDF,) Tj
+T*
+(gold-line template, and original logo file are added to `input/`.) Tj
+T*
+() Tj
+T*
+(## Requested edits) Tj
+T*
+(- Apply the gold-line RLC bid/contract page styling once the template file is provided.) Tj
+T*
+(- Keep the company logo, but crop/remove the black square background so it fits the page) Tj
+T*
+(background cleanly.) Tj
+T*
+(- Update the materials/pricing sheet with current supplier pricing.) Tj
+T*
+(- Add one drywall T-square line item.) Tj
+T*
+(- Add one DeWalt laser line item suitable for drop ceilings/drywall layout.) Tj
+T*
+(- Add one box of Hilti collated drywall gun screw strips in 1-5/8 in.) Tj
+T*
+(- Add one box of Hilti collated drywall gun screw strips in 1-1/4 in.) Tj
+T*
+(- Include delivery as a separate cost line.) Tj
+T*
+(- Include a $400 Big River Disposal dumpster/trash removal line item.) Tj
+T*
+(- Calculate Quincy, Illinois commercial remodel permit fee from the final contract value.) Tj
+T*
+() Tj
+T*
+(## Exclusions) Tj
+T*
+(- Leave out the floor plans.) Tj
+T*
+() Tj
+T*
+(## Required source assets) Tj
+T*
+(- Current bid PDF or editable source file) Tj
+T*
+(- Gold-line RLC template file) Tj
+T*
+(- Company logo source file with the highest available resolution) Tj
+T*
+() Tj
+T*
+(## Current outputs) Tj
+T*
+(- `materials_pricing.csv` now contains current researched prices for the requested added) Tj
+T*
+(line items, plus the permit-fee formula row.) Tj
+T*
+(- `notes/research.md` contains the price source log and Quincy permit reference.) Tj
+T*
+(- `output/package_edit_pass.md` records what is finished versus still blocked.) Tj
+T*
+() Tj
+T*
+(## Working folders) Tj
+T*
+(- `input/` for client-supplied PDFs, templates, and logo files) Tj
+T*
+(- `working/` for edited drafts and extracted assets) Tj
+T*
+(- `output/` for edit-pass deliverables) Tj
+T*
+(- `notes/` for research, assumptions, and approval notes) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000077 00000 n 
+0000000134 00000 n 
+0000002526 00000 n 
+0000002652 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2701
+%%EOF

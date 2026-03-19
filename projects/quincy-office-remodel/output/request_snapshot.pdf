@@ -1,0 +1,102 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Length 1880 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 50 742 Tm
+(quincy-office-remodel request snapshot) Tj
+0 -28 Td
+({) Tj
+T*
+(  "project_name": "Quincy Office Remodel",) Tj
+T*
+(  "project_slug": "quincy-office-remodel",) Tj
+T*
+(  "location": "Quincy, IL",) Tj
+T*
+(  "project_type": "Office remodel",) Tj
+T*
+(  "status": "edit-pass-partial-complete",) Tj
+T*
+(  "scope_summary": "Office remodel package edit pass with pricing research completed, floor) Tj
+T*
+(plans excluded, and permit-fee formula documented. Final PDF page edits remain blocked until) Tj
+T*
+(the source bid PDF, gold-line template, and original logo file are added to input/.",) Tj
+T*
+(  "requested_edits": [) Tj
+T*
+(    "Apply the gold-line RLC bid/contract page styling once the template file is provided.",) Tj
+T*
+(    "Keep the company logo, but crop/remove the black square background so it fits the page) Tj
+T*
+(background cleanly.",) Tj
+T*
+(    "Update the materials/pricing sheet with current supplier pricing when source files are) Tj
+T*
+(available.",) Tj
+T*
+(    "Add one drywall T-square line item.",) Tj
+T*
+(    "Add one DeWalt laser line item suitable for drop ceilings/drywall layout.",) Tj
+T*
+(    "Add one box of Hilti collated drywall gun screw strips in 1-5/8 in.",) Tj
+T*
+(    "Add one box of Hilti collated drywall gun screw strips in 1-1/4 in.",) Tj
+T*
+(    "Include delivery as a separate cost line.",) Tj
+T*
+(    "Include a $400 Big River Disposal dumpster/trash removal line item.",) Tj
+T*
+(    "Calculate Quincy, Illinois commercial remodel permit fee from the final contract) Tj
+T*
+(value.") Tj
+T*
+(  ],) Tj
+T*
+(  "exclusions": [) Tj
+T*
+(    "Leave out the floor plans.") Tj
+T*
+(  ],) Tj
+T*
+(  "required_assets": [) Tj
+T*
+(    "Current bid PDF or editable source file",) Tj
+T*
+(    "Gold-line RLC template file",) Tj
+T*
+(    "Company logo source file with the highest available resolution") Tj
+T*
+(  ]) Tj
+T*
+(}) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000077 00000 n 
+0000000134 00000 n 
+0000002066 00000 n 
+0000002192 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+2241
+%%EOF

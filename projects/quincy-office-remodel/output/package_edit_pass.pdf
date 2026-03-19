@@ -1,0 +1,78 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Length 1183 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 50 742 Tm
+(quincy-office-remodel package edit pass) Tj
+0 -28 Td
+(# Package edit pass summary) Tj
+T*
+() Tj
+T*
+(## Completed in this pass) Tj
+T*
+(- Updated the pricing sheet with current accessible market pricing for the requested add-on) Tj
+T*
+(items.) Tj
+T*
+(- Added the DeWalt laser selection that explicitly matches drop-ceiling/remodeling use.) Tj
+T*
+(- Added both requested Hilti collated drywall screw strip boxes.) Tj
+T*
+(- Preserved the $400 Big River Disposal line item.) Tj
+T*
+(- Documented Quincy, Illinois permit-fee calculation as `max\($75, construction value x) Tj
+T*
+(0.005\)`.) Tj
+T*
+(- Confirmed that **floor plans are to be left out** of the revised package.) Tj
+T*
+() Tj
+T*
+(## Still blocked) Tj
+T*
+(- The actual source bid PDF is missing.) Tj
+T*
+(- The gold-line RLC template file is missing.) Tj
+T*
+(- The original/high-resolution logo file is missing.) Tj
+T*
+() Tj
+T*
+(## Next required action to finish the visual package) Tj
+T*
+(Put the bid PDF, template, and logo into `projects/quincy-office-remodel/input/`. Once those) Tj
+T*
+(files are present, the remaining visual pass can be completed against the real document) Tj
+T*
+(pages.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000077 00000 n 
+0000000134 00000 n 
+0000001369 00000 n 
+0000001495 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1544
+%%EOF

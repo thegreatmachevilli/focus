@@ -1,0 +1,130 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Length 2826 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 50 742 Tm
+(quincy-office-remodel research notes) Tj
+0 -28 Td
+(# Research notes) Tj
+T*
+() Tj
+T*
+(## Quincy, Illinois permit fee) Tj
+T*
+(- The City of Quincy commercial, industrial, and multi-family permit schedule lists a) Tj
+T*
+(**minimum permit fee of $75**.) Tj
+T*
+(- For **commercial remodeling and repairs**, the fee is **construction value x 0.005**.) Tj
+T*
+(- Working formula for this job: `permit_fee = max\(75, contract_value * 0.005\)`.) Tj
+T*
+() Tj
+T*
+(## Current price log) Tj
+T*
+(Retrieved on **2026-03-19 UTC**.) Tj
+T*
+() Tj
+T*
+(- 48 in. drywall T-square: **$21.99** from True Value for the Empire 48 in. blue drywall) Tj
+T*
+(square.) Tj
+T*
+(- DeWalt DW088CG green cross-line laser: **$189.00** from Home Depot; listing specifically) Tj
+T*
+(says it is ideal for drop ceiling, tile, or remodeling jobs.) Tj
+T*
+(- Hilti 1-5/8 in. collated drywall screw box: **$174.00** from Home Depot for the 5000-pack.) Tj
+T*
+(- Hilti 1-1/4 in. collated drywall screw box: **$266.00** from Home Depot for the 8000-pack.) Tj
+T*
+(- Big River Disposal allowance: **$400.00** per user direction.) Tj
+T*
+(- Menards delivery: **zip-code dependent**; Menards states the delivery cost appears in) Tj
+T*
+(checkout after entering the delivery zip code.) Tj
+T*
+() Tj
+T*
+(## Source links) Tj
+T*
+(- City of Quincy building permit fee schedule PDF:) Tj
+T*
+(https://www.quincyil.gov/files/assets/city/v/1/inspections/documents/826building-permit-) Tj
+T*
+(fees-2018.pdf) Tj
+T*
+(- Empire 48 in. blue drywall square: https://www.truevalue.com/product/blue-drywall-) Tj
+T*
+(square-48-in/) Tj
+T*
+(- DeWalt DW088CG laser: https://www.homedepot.com/p/304849047) Tj
+T*
+(- Hilti 1-5/8 in. collated screws: https://www.homedepot.com/b/Hardware-Fasteners-Collated-) Tj
+T*
+(Fasteners-Collated-Screws/5000/N-5yc1vZc2c5Z1z13yt2) Tj
+T*
+(- Hilti 1-1/4 in. collated screws: https://www.homedepot.com/p/311697086) Tj
+T*
+(- Menards orders & shipping: https://www.menards.com/main/help-center/orders-) Tj
+T*
+(shipping/c-19280.htm) Tj
+T*
+() Tj
+T*
+(## Known blockers) Tj
+T*
+(- The source bid PDF, the gold-line template, and the original logo file are still not) Tj
+T*
+(present in this repository.) Tj
+T*
+(- Menards product pages are bot-protected in this environment, so exact Menards item pricing) Tj
+T*
+(could not be fetched directly here. Accessible market prices were used for the priced add-on) Tj
+T*
+(lines instead.) Tj
+T*
+(- Because the current bid package is still missing, the actual PDF page restyle, logo) Tj
+T*
+(cleanup, and page-by-page floor-plan removal cannot be executed yet.) Tj
+T*
+() Tj
+T*
+(## User-directed estimate lines to preserve) Tj
+T*
+(- Include delivery as a separate line item.) Tj
+T*
+(- Include **$400** for Big River Disposal dumpster/trash removal.) Tj
+T*
+(- Leave out floor plans from the revised package.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000077 00000 n 
+0000000134 00000 n 
+0000003012 00000 n 
+0000003138 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+3187
+%%EOF

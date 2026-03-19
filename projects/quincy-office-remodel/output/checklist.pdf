@@ -1,0 +1,62 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Length 838 >>
+stream
+BT
+/F1 11 Tf
+1 0 0 1 50 742 Tm
+(quincy-office-remodel checklist) Tj
+0 -28 Td
+(# Bid edit checklist) Tj
+T*
+() Tj
+T*
+(- [ ] Drop the current bid PDF or editable source into `input/`.) Tj
+T*
+(- [ ] Drop the gold-line RLC template into `input/`.) Tj
+T*
+(- [ ] Drop the highest-quality logo source into `input/`.) Tj
+T*
+(- [x] Add the requested pricing lines for the T-square, DeWalt laser, Hilti screws, and Big) Tj
+T*
+(River Disposal.) Tj
+T*
+(- [x] Document the Quincy permit-fee formula.) Tj
+T*
+(- [x] Mark floor plans for exclusion from the revised package.) Tj
+T*
+(- [ ] Calculate the final permit fee from the actual contract value in the bid.) Tj
+T*
+(- [ ] Apply the visual template to the bid pages.) Tj
+T*
+(- [ ] Remove/crop the black square around the company logo.) Tj
+T*
+(- [ ] Export the revised bid package into `output/`.) Tj
+ET
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000077 00000 n 
+0000000134 00000 n 
+0000001023 00000 n 
+0000001149 00000 n 
+trailer
+<< /Size 6 /Root 5 0 R >>
+startxref
+1198
+%%EOF

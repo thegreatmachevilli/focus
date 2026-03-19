@@ -1,6 +1,7 @@
 // codex_task.js - Task Runner for GitHub Remote Connector
 
 const { exec } = require('child_process');
+const args = process.argv.slice(2);
 
 // Function to execute a command
 function execute(command) {
@@ -24,6 +25,10 @@ async function runTask(task) {
     }
 }
 
-// Example usage
-const task = 'git status'; // Replace with your task command
+if (args.length === 0) {
+    console.error('Usage: node codex_task.js "<command>"');
+    process.exit(1);
+}
+
+const task = args.join(' ');
 runTask(task);

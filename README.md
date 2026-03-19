@@ -1,28 +1,76 @@
-# Quick Start Instructions for Running the GitHub Remote Connector via Codex
+# Focus AI Engine
 
-## Prerequisites
-- Ensure you have a Codex account.
-- Install [Node.js](https://nodejs.org/) if you haven't already.
+This repo now keeps a reusable **bid-editing workflow** alongside the existing repository connector tools.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/thegreatmachevilli/FOCUS.git
-   cd FOCUS
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+## Open the workflow from the repo root
 
-## Running the Connector
-1. Start the connector:
-   ```bash
-   npm start
-   ```
-2. Follow the on-screen instructions to connect to GitHub.
+```bash
+cd /workspace/focus
+./focus_engine.sh open
+```
 
-## Troubleshooting
-- If you encounter any issues, please check the logs for errors.
+To jump straight to the bid workflow instructions:
 
-For further assistance, feel free to raise an issue in this repository or contact support.
+```bash
+./focus_engine.sh bid-open
+```
+
+## Create or refresh a bid workspace
+
+```bash
+./focus_engine.sh bid-init quincy-office-remodel "Quincy Office Remodel"
+```
+
+That command creates a project workspace under `projects/` with:
+
+- `input/` for the bid PDF, template, and logo files
+- `working/` for draft edits
+- `output/` for final exports
+- `notes/` for checklist and research
+- `materials_pricing.csv` for the estimate line items that need updating
+
+## Current office remodel instruction set
+
+The generated workspace is designed for the office remodel request that needs these edits:
+
+- apply the gold-line RLC bid/contract styling when the template is supplied
+- keep the company logo but crop/remove the black square background
+- update the materials sheet with current pricing
+- add a drywall T-square
+- add a DeWalt laser suited to drop ceilings/drywall layout
+- add one box each of Hilti collated drywall screw strips in 1-5/8 in. and 1-1/4 in.
+- add delivery
+- add `$400` for Big River Disposal dumpster/trash removal
+- calculate the Quincy, Illinois commercial remodel permit fee from final contract value
+- **leave out the floor plans**
+
+## Files still needed before the PDF can actually be revised
+
+Put these into the project workspace `input/` folder:
+
+- the current bid PDF or editable source file
+- the gold-line RLC template
+- the original or highest-quality logo file
+
+Without those source files, the repo can store the workflow and estimate checklist, but it cannot produce the revised PDF yet.
+
+## Other available commands
+
+```bash
+./focus_engine.sh clone
+./focus_engine.sh report
+./focus_engine.sh mirror
+./focus_engine.sh list
+./focus_engine.sh task "git status"
+```
+
+`npm start` still opens the engine entrypoint.
+
+
+## Export current project files to PDF
+
+```bash
+./focus_engine.sh bid-pdfs quincy-office-remodel
+```
+
+That command exports the current workspace text artifacts into PDF files inside `projects/quincy-office-remodel/output/`.

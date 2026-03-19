@@ -1,0 +1,28 @@
+{
+  "project_name": "Quincy Office Remodel",
+  "project_slug": "quincy-office-remodel",
+  "location": "Quincy, IL",
+  "project_type": "Office remodel",
+  "status": "edit-pass-partial-complete",
+  "scope_summary": "Office remodel package edit pass with pricing research completed, floor plans excluded, and permit-fee formula documented. Final PDF page edits remain blocked until the source bid PDF, gold-line template, and original logo file are added to input/.",
+  "requested_edits": [
+    "Apply the gold-line RLC bid/contract page styling once the template file is provided.",
+    "Keep the company logo, but crop/remove the black square background so it fits the page background cleanly.",
+    "Update the materials/pricing sheet with current supplier pricing when source files are available.",
+    "Add one drywall T-square line item.",
+    "Add one DeWalt laser line item suitable for drop ceilings/drywall layout.",
+    "Add one box of Hilti collated drywall gun screw strips in 1-5/8 in.",
+    "Add one box of Hilti collated drywall gun screw strips in 1-1/4 in.",
+    "Include delivery as a separate cost line.",
+    "Include a $400 Big River Disposal dumpster/trash removal line item.",
+    "Calculate Quincy, Illinois commercial remodel permit fee from the final contract value."
+  ],
+  "exclusions": [
+    "Leave out the floor plans."
+  ],
+  "required_assets": [
+    "Current bid PDF or editable source file",
+    "Gold-line RLC template file",
+    "Company logo source file with the highest available resolution"
+  ]
+}
