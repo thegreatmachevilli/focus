@@ -7,3 +7,5 @@ Delivery fee,1,lot,Menards checkout quote required,,,quote-required,Menards stat
 Big River Disposal dumpster/trash removal,1,lot,User-directed allowance,400.00,400.00,priced,Fixed amount requested by user.
 "Quincy, IL commercial remodel permit fee",1,lot,City of Quincy building permit fee schedule (2018 PDF surfaced by city site),,,formula,"Fee = max($75, construction value x 0.005)."
 Known priced subtotal (before delivery + permit),1,lot,Calculated from priced lines,1050.99,1050.99,calculated,Subtotal of priced add-on lines only.
+Customer discount (updated),1,lot,User request,-10000.00,-10000.00,updated,"Discount updated from $5,000 to $10,000 for recalculation."
+Net after updated discount (before delivery + permit),1,lot,Calculated from subtotal and discount,-8949.01,-8949.01,calculated,"Net = 1,050.99 - 10,000.00."
