@@ -6,7 +6,7 @@ endobj
 << /Type /Pages /Kids [4 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Length 1183 >>
+<< /Length 1565 >>
 stream
 BT
 /F1 11 Tf
@@ -29,11 +29,25 @@ T*
 T*
 (- Preserved the $400 Big River Disposal line item.) Tj
 T*
+(- Re-edited the bid discount from **$5,000** to **$10,000** and recalculated the running) Tj
+T*
+(net.) Tj
+T*
 (- Documented Quincy, Illinois permit-fee calculation as `max\($75, construction value x) Tj
 T*
 (0.005\)`.) Tj
 T*
 (- Confirmed that **floor plans are to be left out** of the revised package.) Tj
+T*
+() Tj
+T*
+(## Discount recalculation snapshot) Tj
+T*
+(- Known priced subtotal \(before delivery + permit\): **$1,050.99**) Tj
+T*
+(- Updated customer discount: **-$10,000.00** \(was -$5,000.00\)) Tj
+T*
+(- Recalculated net \(before delivery + permit\): **-$8,949.01**) Tj
 T*
 () Tj
 T*
@@ -69,10 +83,10 @@ xref
 0000000009 00000 n 
 0000000077 00000 n 
 0000000134 00000 n 
-0000001369 00000 n 
-0000001495 00000 n 
+0000001751 00000 n 
+0000001877 00000 n 
 trailer
 << /Size 6 /Root 5 0 R >>
 startxref
-1544
+1926
 %%EOF
