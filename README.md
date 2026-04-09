@@ -54,6 +54,20 @@ Put these into the project workspace `input/` folder:
 
 Without those source files, the repo can store the workflow and estimate checklist, but it cannot produce the revised PDF yet.
 
+## Save the most recent workflows/tasks to Google Drive
+
+```bash
+./focus_engine.sh drive-save
+```
+
+Optional flags can be passed through, for example:
+
+```bash
+./focus_engine.sh drive-save --drive-dir "~/Google Drive/Focus AI Engine" --limit 3
+```
+
+This copies the latest workflow artifacts (`README.md`, `request.json`, and `output/package_edit_pass.md`) and task artifacts (`notes/checklist.md`, `notes/research.md`, and `materials_pricing.csv`) into a timestamped Google Drive folder for live editing and storage.
+
 ## Other available commands
 
 ```bash

@@ -46,6 +46,7 @@ Bid workflow actions:
   bid-open    Show the current bid workspace instructions
   bid-init    Create a bid-editing workspace in the repo
   bid-pdfs    Export current bid workspace artifacts to PDFs
+  drive-save  Save last workflow/task artifacts to Google Drive
 
 Repository connector actions:
   clone       Clone or refresh the configured GitHub user's repositories
@@ -63,6 +64,7 @@ Examples:
   ./focus_engine.sh bid-open
   ./focus_engine.sh bid-init quincy-office-remodel "Quincy Office Remodel"
   ./focus_engine.sh bid-pdfs quincy-office-remodel
+  ./focus_engine.sh drive-save
   ./focus_engine.sh clone
   ./focus_engine.sh task "git status"
 EOF
@@ -151,6 +153,9 @@ case "$ACTION" in
         ;;
     bid-pdfs)
         export_bid_pdfs "$@"
+        ;;
+    drive-save)
+        python3 focus_drive_sync.py --root "$BID_ROOT" "$@"
         ;;
     clone|sync|push|list|report|mirror)
         show_banner
